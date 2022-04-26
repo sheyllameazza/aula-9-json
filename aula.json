@@ -1,0 +1,15 @@
+{
+    "nome":"Programação para Web",
+    "professor":"willian",
+    "dia":"Segunda-feira",
+    "semestre":1,
+    "ativa":true,
+    "alunos":{
+        "nome":"Alexandre",
+        "idade":28
+    }
+    {
+        "nome":"Douglas",
+        "idade":25  
+    }
+}
